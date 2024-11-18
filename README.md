@@ -76,12 +76,14 @@ Functional Simulation:
 It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple step
 
 ## Fig 3: Setting Multi-step simulation
+![Screenshot (119)](https://github.com/user-attachments/assets/4eed2e7c-45e2-4182-b5ce-759c9d92d1b5)
 
 Select Multiple Step and then select “Create cds.lib File” as shown in below figure
 
 Click the cds.lib file and save the file by clicking on Save option
 
 ## Fig 4: cds.lib file Creation
+![Screenshot (120)](https://github.com/user-attachments/assets/ea51aa51-1dce-425b-9d04-00f9aa68b491)
 
 	Save cds.lib file and select the correct option for cds.lib file format based on the  HDL Language and Libraries used.
 
@@ -124,6 +126,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation 
 
 ## Fig 7: Compiled database in worklib
+![Screenshot (121)](https://github.com/user-attachments/assets/d64c2ef2-9e56-4dce-80a9-9f5209ae880b)
 
 	After compilation it will come under worklib you can see in right side window
 
@@ -165,8 +168,10 @@ It contains statements that map logical library names to their physical director
 	Steps for simulation – Run the simulation command with simulator options
 
 ## Fig 9: Design Browser window for simulation
+![Screenshot (122)](https://github.com/user-attachments/assets/7dfde114-a14d-4967-89da-e0581d1d8c6b)
 
 ## Fig 10: Simulation Waveform Window
+![Screenshot (123)](https://github.com/user-attachments/assets/c99953b0-43be-4497-a4eb-811b125f0928)
 
 ## Fig 11: Simulation Waveform Window
 
