@@ -174,6 +174,7 @@ It contains statements that map logical library names to their physical director
 ![Screenshot (123)](https://github.com/user-attachments/assets/c99953b0-43be-4497-a4eb-811b125f0928)
 
 ## Fig 11: Simulation Waveform Window
+![Screenshot (124)](https://github.com/user-attachments/assets/295056ab-ec15-47d1-bcfd-06ada06c332b)
 
 ### Result
 
